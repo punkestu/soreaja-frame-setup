@@ -1,0 +1,6 @@
+{
+  "name": "Soreaja Frame Setup",
+  "description": "Visual photobox frame configuration & slot calibration tool with real-time canvas positioning, asset preview, and JSON metadata export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
